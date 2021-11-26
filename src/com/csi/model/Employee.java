@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
-// Updated Project
+// updated by shubham
 @Entity
 public class Employee {
 	@Id
